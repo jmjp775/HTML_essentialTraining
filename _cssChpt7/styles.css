@@ -10,8 +10,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: rgb(107, 107, 132);
 }
 body {
-	font-family: Verdana, Geneva, sans-serif;
-	font-size: 100%;
+	font: 100% Verdana, Geneva, sans-serif;
 	width: 80%;
 	margin-right: auto;
 	margin-left: auto;
@@ -20,12 +19,12 @@ body {
 	line-height: 1.8;
 }
 h1 {
-	font: 1.6em Verdana, Geneva, sans-serif;
+	font-family: 1.6em;
 	margin-bottom: .4em;
 	color: rgb(83, 104, 138);
 }
 h2 {
-	font: 3.2em Georgia, "Times New Roman", Times, serif;
+	font: 3.2em;
 	margin-bottom: .2em;
 }
 h3 {
